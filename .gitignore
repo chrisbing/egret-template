@@ -1,0 +1,9 @@
+.idea
+bin-debug
+libs
+release
+resource_Publish
+game_code_*.zip
+node_modules
+tsc_config_temp.txt
+.settings
