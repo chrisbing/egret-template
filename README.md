@@ -3,11 +3,11 @@ Template of egret (without gui)
 
 ## usage
 
-### ³õÊ¼»¯
+### åˆå§‹åŒ–
 
     npm install -g gulp
     npm install
 
-### ·¢²¼
+### å‘å¸ƒ
 
-    gulp --ver °æ±¾ºÅ
+    gulp --ver ç‰ˆæœ¬å·
